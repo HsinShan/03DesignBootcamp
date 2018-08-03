@@ -215,6 +215,12 @@
     .header #btn{
         width: 150px;
     }
+    #welcome,#choose,#about{
+        padding: 40px;
+    }
+    .quote{
+        padding: 100px 50px;
+    }
     #welcome h1{
         font-size: 40px;
     }
