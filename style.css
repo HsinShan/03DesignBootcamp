@@ -263,7 +263,9 @@
     .copy p{
         font-size: 16px;
     }
-
+    .toprow p{
+        height: 50px;
+    }
 
 }
 
